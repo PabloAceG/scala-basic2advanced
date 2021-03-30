@@ -7,5 +7,3 @@
 // - A set of tests begins with describe
 // - Each test begins with it. The idea is that the test should read like, “It
 //   should do XYZ…,” where “it” is the double function
-//
-// - This example also shows how to mark a test as “pending”
